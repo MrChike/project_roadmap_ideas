@@ -166,6 +166,9 @@ A list of project ideas to build to sharpen my skills
 
 This should meet the requirements with a focus on **Python, Java, C++, and JavaScript** programming languages alongside appropriate **SQL technologies** for the listed projects. If you'd like to refine or adjust any part, let me know!
 
+
+
+
 ### **Real-Time AI-Powered Presentation and Debate Training System: Comprehensive Product Concept**
 
 ---
