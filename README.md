@@ -311,7 +311,7 @@ While there are technical, operational, and market challenges to overcome, with 
 Building an enterprise-grade fraud detection system involves several key components, each designed to address different aspects of fraud detection, from data collection and processing to real-time decision-making and reporting. Here's a breakdown of the **major components** required to build such a system, along with their respective roles:
 
 ---
-
+# FRAUD DETECTION SYSTEM
 ### 1. **Data Collection and Integration Layer**
 This layer is responsible for gathering data from various sources (transactions, logs, user activity, external APIs) that will be used for fraud detection.
 
